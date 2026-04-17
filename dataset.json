@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Evanston, Illinois. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Evanston, Illinois, US",
+  "export_job_id": "748ef11d-61ce-4b8c-8e45-2b42106e3226",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 148435,
+  "location_name": "Evanston",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-evanston-illinois-us-sample-148435",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/148435/beamstation_148435_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 10.65,
+  "sample_records": 33,
+  "sample_sha256": "fbb45825b5eb3433471fc4acbbd8552affea1dc175befa5b616e0b832a5c990c",
+  "sample_size_bytes": 134273,
+  "total_records": 310,
+  "updated_at": "2026-03-31T14:15:57.760578+00:00"
+}
