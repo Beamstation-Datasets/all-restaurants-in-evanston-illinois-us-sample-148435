@@ -1,0 +1,12 @@
+{
+  "export_job_id": "748ef11d-61ce-4b8c-8e45-2b42106e3226",
+  "id_short": 148435,
+  "published_at": "2026-04-17T07:13:09Z",
+  "repo_name": "all-restaurants-in-evanston-illinois-us-sample-148435",
+  "sample_asset_name": "beamstation_148435_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/148435/beamstation_148435_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_records": 33,
+  "sample_sha256": "fbb45825b5eb3433471fc4acbbd8552affea1dc175befa5b616e0b832a5c990c",
+  "sample_size_bytes": 134273,
+  "total_records": 310
+}
