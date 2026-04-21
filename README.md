@@ -9,9 +9,9 @@
 | Dataset ID | `148435` |
 | Location | Evanston |
 | Category | Restaurants |
-| Full dataset size | 336 records |
-| Free sample size | 33 records (9.82%) |
-| Last export | 2026-04-14T14:42:57.389461+00:00 |
+| Full dataset size | 333 records |
+| Free sample size | 33 records (9.91%) |
+| Last export | 2026-04-21T15:52:57.453794+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-evanston-illinois-us-sample-148435/releases/download/sample-latest/beamstation_148435_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
