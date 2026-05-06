@@ -1,6 +1,6 @@
 # All Restaurants in Evanston, Illinois, US
 
-> Free BeamStation sample export with 17 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `148435` |
 | Location | Evanston |
 | Category | Restaurants |
-| Full dataset size | 171 records |
-| Free sample size | 17 records (9.94%) |
-| Last export | 2026-04-28T16:42:11.986341+00:00 |
+| Full dataset size | 357 records |
+| Free sample size | 35 records (9.8%) |
+| Last export | 2026-05-06T16:08:30.471381+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-evanston-illinois-us-sample-148435/releases/download/sample-latest/beamstation_148435_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
